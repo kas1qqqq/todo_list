@@ -60,11 +60,6 @@ label {
   padding-left: 10px;
 }
 
-.anim {
-  transition: 2s ease;
-  opacity: 0;
-}
-
 p {
   color: rgb(63, 63, 63);
   cursor: default;
