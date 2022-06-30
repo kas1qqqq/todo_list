@@ -101,3 +101,7 @@ p:last-child:hover {
   text-decoration: line-through;
   color: grey;
 }
+
+.marginTop {
+  margin-top: 20px;
+}
